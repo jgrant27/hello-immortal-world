@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 fort = "0.3"
-bastion = "0.3.*"
+bastion = "0.4.*"
